@@ -60,11 +60,19 @@ It combines exploratory analysis, automated scoring, and interactive dashboards.
 
 ---
 ##  Dashboard Preview
+### Customer Retention Dashboard
+
 ![Customer Retention Dashboard](docs/images/customer_retention_dashboard.png)
+
+### Feature Impact Dashboard
 
 ![Feature Impact Dashboard](docs/images/feature_impact_dashboard.png)
 
+### Churn Drivers
+
 ![Churn Drivers](docs/images/churn_drivers.png)
+
+### Retention Drivers
 
 ![Retention Drivers](docs/images/retention_drivers.png)
 
