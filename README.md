@@ -28,4 +28,33 @@ It combines exploratory analysis, automated scoring, and interactive dashboards.
 - Execute automation script to score data
 - Open Power BI dashboard for visualization
 
+## 📊 Results
+- Achieved **~85% accuracy** in predicting customer churn  
+- Improved recall for high‑risk customers, enabling proactive retention strategies  
+- Automated scoring pipeline reduces manual effort and integrates directly with Snowflake  
 
+---
+
+## 💡 Business Impact
+- Helps companies identify at‑risk customers early  
+- Supports data‑driven retention campaigns  
+- Provides executives with interactive dashboards for decision‑making  
+
+---
+## 🧰 Tech Stack
+- **Languages**: Python  
+- **Libraries**: pandas, scikit‑learn, XGBoost, joblib  
+- **Data Warehouse**: Snowflake  
+- **Visualization**: Power BI  
+
+---
+
+## 🔮 Future Work
+- Integrate real‑time scoring API  
+- Expand to multi‑channel customer data (CRM, support logs, etc.)  
+- Deploy dashboards to Power BI Service for enterprise sharing  
+
+---
+## 👤 Author
+**Chikaodili Eze (GOSPEL92)**  
+Data Analyst | Machine Learning Enthusiast | Business Intelligence Developer
