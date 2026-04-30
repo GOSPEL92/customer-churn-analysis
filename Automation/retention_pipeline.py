@@ -4,11 +4,11 @@ from snowflake.connector.pandas_tools import write_pandas
 
 # Step 1: Connect to Snowflake
 conn = connect(
-    user="Snowflakeadmin",
-    password="4ikcaAgjW72He9a",
-    account="uvxupbi-aq60096",
-    warehouse="COMPUTE_WH",
-    database="CUSTOMER_DB",
+    user=" "your_username_here",
+    password="your_password_here",
+    account="your account here",
+    warehouse="your warehouse name here",
+    database="your database name here",
     schema="PUBLIC"
 )
 
